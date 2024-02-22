@@ -22,26 +22,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.ownernomer = "254102074064" //ur owner number2
-global.ownername = "©𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞⚸" //ur owner name
-global.ytname = "YT: drex" //ur yt chanel name
-global.socialm = "GitHub: zandat3" //ur github or insta name
-global.location = "Kenya, Nairobi" //ur location
+global.ownernomer = "254110817746" //ur owner number2
+global.ownername = "©MERLIN_NICK⚸" //ur owner name
+global.ytname = "YT: NICK" //ur yt chanel name
+global.socialm = "GitHub: Robyatis" //ur github or insta name
+global.location = "Kenya, Mombasa" //ur location
 
 //new
-global.botname = "𝐃𝐑𝐄𝐗 𝐁𝐎𝐓"
-global.ownernumber = '254729553638'
-global.ownername = '𝗗𝗮𝗿𝗸_𝗜𝗻𝘁𝗲𝗻𝘁'
-global.ownerNumber = ["254102074064@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@Drex"
-global.websitex = "https://youtube.com/@Drex"
-global.wagc = "https://chat.whatsapp.com/Kjm8rnDFcpb04gQNSTbW2d"
-global.themeemoji = '🪀'
+global.botname = "NICK 𝐁𝐎𝐓"
+global.ownernumber = '254110817746'
+global.ownername = 'NICK_𝗜𝗻𝘁𝗲𝗻𝘁'
+global.ownerNumber = ["254110817746@s.whatsapp.net"]
+global.ownerweb = "https://youtube.com/@NICK"
+global.websitex = "https://youtube.com/@NICK"
+global.wagc = "https://chat.whatsapp.com/GQX9YMc6v2UIziomzPGv2w"
+global.themeemoji = '👑'
 global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/zandat3' //script link
-global.packname = "©𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞⚸"
-global.author = "⸙ᴹᵒˢᵉ ᴹᵒᵈᶻ⛥"
-global.creator = "254729553638@s.whatsapp.net"
+global.botscript = 'https://github.com/Robystis' //script link
+global.packname = "©Nick_merlin⚸"
+global.author = "Nick merlin"
+global.creator = "254110817746@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
